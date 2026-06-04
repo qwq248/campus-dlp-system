@@ -1,0 +1,17 @@
+Flask==2.3.3
+Flask-Login==0.6.2
+SQLAlchemy==2.0.20
+python-docx==0.8.11
+PyPDF2==3.0.1
+textract==1.6.3
+simhash==1.8.13
+easyocr==1.7.0
+spacy==3.6.1
+hanlp==2.1.0
+cryptography==41.0.3
+bcrypt==4.0.1
+passlib==1.7.4
+Faker==19.6.1
+python-json-logger==2.0.7
+SQLAlchemy-Utils==0.41.1
+python-dotenv==1.0.0
